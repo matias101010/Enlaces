@@ -1,0 +1,68 @@
+body {;
+	background-color: #54a5b1;
+}
+.jumbotron {
+	color: #54a5b1;
+	background-color: #F7F946;
+	margin-top: 32px;
+}
+
+.btn {
+	background-color: #F7F946;
+	color: #54a5b1;
+}
+
+.collapse {
+	background-color: snow;
+	color: darkgoldenrod;
+}
+
+.card-hotel {
+	flex: 1 150px;
+	margin-top: 10px;
+	color: #54a5b1;
+}
+
+.btn-comprar {
+	width: 100%;
+	border-radius: 0px;
+	}
+
+
+footer {
+	padding: 10px 10px 0px 10px;
+	background-color: #54a5b1;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	color: #F7F946;
+}
+
+footer a {
+   color: snow;
+}
+
+.btn-outline-success {
+	position: relative;
+	left: 925px;
+	bottom: 0px;
+	color: #54a5b1;
+	background-color: snow;
+}
+
+.aqua{
+	background-color: snow;
+	height: 300px;
+}
+
+tr {
+	color: darkgoldenrod;
+}
+
+.ro {
+	color: snow;
+}
+
+.btn-link {
+  color: darkgoldenrod;
+  background-color: blue;
+}
